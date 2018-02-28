@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\msToDateTime\msToDateTime\bin\Debug\msToDateTime.exe.config
+C:\Users\Admin\source\repos\msToDateTime\msToDateTime\bin\Debug\msToDateTime.exe
+C:\Users\Admin\source\repos\msToDateTime\msToDateTime\bin\Debug\msToDateTime.pdb
+C:\Users\Admin\source\repos\msToDateTime\msToDateTime\obj\Debug\msToDateTime.MainForm.resources
+C:\Users\Admin\source\repos\msToDateTime\msToDateTime\obj\Debug\msToDateTime.Properties.Resources.resources
+C:\Users\Admin\source\repos\msToDateTime\msToDateTime\obj\Debug\msToDateTime.csproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\msToDateTime\msToDateTime\obj\Debug\msToDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\msToDateTime\msToDateTime\obj\Debug\msToDateTime.exe
+C:\Users\Admin\source\repos\msToDateTime\msToDateTime\obj\Debug\msToDateTime.pdb
